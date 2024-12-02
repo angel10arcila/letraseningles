@@ -15,8 +15,8 @@ const mediaFiles = [
      },
      
      {
-         name: "Somos tal para cuál - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
+         name: "And take it now - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/And take it now V1 - Lyrics and music by Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
