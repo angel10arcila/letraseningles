@@ -3,51 +3,51 @@
 const mediaFiles = [
 
      {
-         name: "Lamborghini - Ángel José Arcila Parra",
+         name: "The clock - Ángel José Arcila Parra",
          url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
        
      {
          name: "Tú locura - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tú locura - V+ Letra de Ángel José Arcila Parra.mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
      {
          name: "Somos tal para cuál - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Somos tal para cual - Letra de Ángel José Arcila Parra .mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
      {
          name: "Mi mayor tesoro - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Mi mayor tesoro - bachata- Letra de Ángel José Arcila Parra .mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
      {
          name: "Una Comedía Romántica - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Comedia Romantica v10 - LyM de Ángel José Arcila Parra.mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
      {
          name: "El Reloj - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/El reloj - (2) LyM Ángel José Arcila Parra.mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
      },
      
     { 
          name: "Fafafa-farai - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Fafafa-farai - V2 - Letra de Ángel José Arcila Parra .mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
     },
 
      
     { 
          name: "Noche rara - Ángel José Arcila Parra",
-         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Noche rara - Letra de Ángel José Arcila Parra.mp3",
+         url: "https://raw.githubusercontent.com/angel10arcila/letraseningles/refs/heads/main/The Clock 1 Letra y Música de Ángel José Arcila Parra .mp3",
          type: "audio"
     },
     
